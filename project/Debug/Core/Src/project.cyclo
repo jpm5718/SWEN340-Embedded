@@ -1,0 +1,7 @@
+../Core/Src/project.c:35:6:EXTI15_10_IRQHandler	3
+../Core/Src/project.c:58:6:EXTI9_5_IRQHandler	4
+../Core/Src/project.c:77:6:display_menu	1
+../Core/Src/project.c:94:6:next	2
+../Core/Src/project.c:116:6:play	1
+../Core/Src/project.c:131:6:stop	1
+../Core/Src/project.c:144:6:run_project	16

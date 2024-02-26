@@ -1,0 +1,3 @@
+../Core/Src/activities/conversion.c:10:10:convert_to_uint16	1
+../Core/Src/activities/conversion.c:14:10:convert_to_uint24	1
+../Core/Src/activities/conversion.c:19:10:convert_to_uint32	1

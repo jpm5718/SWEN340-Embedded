@@ -1,0 +1,17 @@
+09/07/2023
+
+How I would approach the project after initial set up:
+	0. BEFORE ANYTHING- have a better understanding of C
+	1. I would load a single midi file and see if it can play thru the speakers before anything else (remote)
+	2. Implement pause/play/stop functionality (remote)
+	3. Implement switching between remote and local and making sure all functionality I had already completed
+	   works in both modes
+	4. Add more songs and make sure it plays the selected song
+	5. Implement skipping songs (remotely and locally)
+
+Things the class says:
+	- Look at provided files and documentation
+	- Investigate board features
+	- How to configure pins
+	- Read board documentation
+	- Figure out how MIDI works

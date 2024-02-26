@@ -1,0 +1,8 @@
+../Core/Src/devices/UART.c:12:6:UART2_Init	1
+../Core/Src/devices/UART.c:34:6:UART2_GPIO_Init	1
+../Core/Src/devices/UART.c:58:6:USART_Init	5
+../Core/Src/devices/UART.c:107:9:USART_Read	2
+../Core/Src/devices/UART.c:115:9:USART_Read_Nonblocking	2
+../Core/Src/devices/UART.c:125:6:USART_Write	4
+../Core/Src/devices/UART.c:141:6:USART_Delay	2
+../Core/Src/devices/UART.c:146:6:USART_IRQHandler	8

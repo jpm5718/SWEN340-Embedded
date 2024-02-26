@@ -1,0 +1,6 @@
+../Core/Src/midi/midiparser.c:16:5:getTempo	1
+../Core/Src/midi/midiparser.c:26:6:parseTitle	5
+../Core/Src/midi/midiparser.c:50:6:parseCopyright	5
+../Core/Src/midi/midiparser.c:74:6:parseTempo	4
+../Core/Src/midi/midiparser.c:93:16:createTrackArray	7
+../Core/Src/midi/midiparser.c:124:6:parsenext	1
